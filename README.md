@@ -35,7 +35,3 @@ This version of the WebStudio landing page expands the interface with a modal di
 - overlay positioning;
 - transitions and interactive UI elements;
 - combining semantic markup with more complex visual components.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-05/)
